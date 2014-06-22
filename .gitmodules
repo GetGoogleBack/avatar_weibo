@@ -1,0 +1,3 @@
+[submodule "weibophp"]
+path = weibophp
+url = git://github.com:coderfox/Weibo.php.git
